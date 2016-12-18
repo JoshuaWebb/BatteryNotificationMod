@@ -1,4 +1,4 @@
-package io.github.joshuawebb.batterynotificationtweak;
+package io.github.joshuawebb.batterynotificationmod;
 
 import de.robv.android.xposed.IXposedHookInitPackageResources;
 import de.robv.android.xposed.callbacks.XC_InitPackageResources;

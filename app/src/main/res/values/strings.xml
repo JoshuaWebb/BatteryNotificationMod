@@ -1,4 +1,4 @@
 <resources>
-   <string name="app_name">Battery Notification Tweak</string>
+   <string name="app_name">Battery Notification Mod</string>
    <string name="xposed_description">No 15\%% or 30\%% battery notification</string>
 </resources>
